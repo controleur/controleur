@@ -36,7 +36,7 @@
 ###
 <div align="center">
   <h3>Let's connect ! Add me on Discord !</h3>
-    
+  <p>I speak English and French</p>
   <picture align="center">
     <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/JWBDAVb.png">
     <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/IfDAcYg.png">
