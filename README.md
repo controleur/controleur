@@ -56,6 +56,3 @@
 
 ###
 
-<div>
-  <h3>Currently Working on <a href="https://ivory-app.com">Ivory<a></h3>
-</div>
