@@ -1,14 +1,6 @@
 <h2 align="center">Hi 👋! I'm Controleur and I'm eager to work on high quality projects !</h2>
 
 ###
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=controleur" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=controleur&layout=compact&card_width=320&langs_count=5" height="150px" alt="languages graph"  />
-</div>
-
-###
-
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></a>
   <img width="12" />
@@ -32,18 +24,6 @@
   <img width="12" />
   <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  /></a>
 </div>
-
-###
-<div align="center">
-  <h3>Let's connect ! Add me on Discord !</h3>
-  <p>I speak English and French</p>
-  <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/JWBDAVb.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/IfDAcYg.png">
-    <img alt="discord friend request" src="https://i.imgur.com/JWBDAVb.png" width="500px">
-  </picture>
-</div>
-
 
 ###
 
